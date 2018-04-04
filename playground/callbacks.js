@@ -1,7 +1,7 @@
 var getUser = (id, callback) => {
     var user = {
         id: 50,
-        name: 'Turds'
+        name: 'Neil'
     };
     setTimeout(() => {
         callback(user)
